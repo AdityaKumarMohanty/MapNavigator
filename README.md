@@ -10,7 +10,7 @@
 
 <img src="https://github.com/AdityaKumarMohanty/MapNavigator/blob/e6565ed8caa9325e52718f54cee1f82b3d2b363d/images/Final%20result.png" alt="project-screenshot" width="600" height="400/">
 
-<img src="https://drive.google.com/file/d/1bb3e0hjNpEIlkzN-_x02Z-0rS7QE0lXD/view?usp=sharing" alt="project-screenshot" width="600" height="400/">
+<img src="https://github.com/AdityaKumarMohanty/MapNavigator/blob/16cab965fef8236b4a78e2639fd4ea8b8c3a89c8/images/input%20and%20result.png" alt="project-screenshot" width="1000" height="500/">
 
   
   
