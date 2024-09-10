@@ -8,7 +8,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://drive.google.com/file/d/1bb3e0hjNpEIlkzN-_x02Z-0rS7QE0lXD/view?usp=sharing" alt="project-screenshot" width="600" height="400/">
+<img src="https://github.com/AdityaKumarMohanty/MapNavigator/blob/e6565ed8caa9325e52718f54cee1f82b3d2b363d/images/Final%20result.png" alt="project-screenshot" width="600" height="400/">
 
 <img src="https://drive.google.com/file/d/1bb3e0hjNpEIlkzN-_x02Z-0rS7QE0lXD/view?usp=sharing" alt="project-screenshot" width="600" height="400/">
 
